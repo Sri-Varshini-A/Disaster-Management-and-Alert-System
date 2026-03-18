@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="feed.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All India: CAP Disaster Alert Feeds</title>
+    <description>CAP Integrated Alert System Warning Updates</description>
+    <language>en</language>
+    <link>https://sachet.ndma.gov.in/cap_public_website/rss/rss_india.xml</link>
+    <atom:link href="https://sachet.ndma.gov.in/cap_public_website/rss/rss_india.xml" rel="self" type="application/rss+xml"/>
+    <copyright>public domain</copyright>
+    <pubDate>Wed, 25 Feb 2026 08:31:58 GMT</pubDate>
+    <item>
+      <title>Thunderstorm with moderate rainfall  gusty winds speed reaching 40 Kmph is likely at one or two places in the districts of Pathanamthitta, Kottayam, Idukki, Ernakulam.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772371829205006</link>
+      <author>controlroom@ndma.gov.in (IMD Thiruvananthapuram)</author>
+      <guid isPermaLink="false">1772371829205006</guid>
+      <pubDate>Sun, 01 Mar 2026 13:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>రానున్న కొద్ది గంటల్లో మీ ప్రాంతంలో దట్టమైన పొగమంచు కురిసే అవకాశం ఉంది. వాహనదారులు ఫాగ్ లైట్లు వాడండి.తక్కువ వేగంతో ప్రయాణించండి. వృద్ధులు ఇంటి వద్ద సురక్షితంగా ఉండండి- ఆంధ్రప్రదేశ్ ప్రభుత్వం</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772324041563008</link>
+      <author>controlroom@ndma.gov.in (IMD Visakhapatnam)</author>
+      <guid isPermaLink="false">1772324041563008</guid>
+      <pubDate>Sun, 01 Mar 2026 00:16:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>రానున్న కొద్ది గంటల్లో మీ ప్రాంతంలో దట్టమైన పొగమంచు కురిసే అవకాశం ఉంది. వాహనదారులు ఫాగ్ లైట్లు వాడండి.తక్కువ వేగంతో ప్రయాణించండి. వృద్ధులు ఇంటి వద్ద సురక్షితంగా ఉండండి- ఆంధ్రప్రదేశ్ ప్రభుత్వం</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772318785866008</link>
+      <author>controlroom@ndma.gov.in (IMD Visakhapatnam)</author>
+      <guid isPermaLink="false">1772318785866008</guid>
+      <pubDate>Sat, 28 Feb 2026 22:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to Moderate Rain with Thunderstorm and lighting is likely to occur at isolated places over Coimbatore, Dindigul, Kanniyakumari, Tenkasi, Theni, The Nilgiris, Tirunelveli, Virudhunagar in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772286804119007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772286804119007</guid>
+      <pubDate>Sat, 28 Feb 2026 13:53:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096741839030</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096741839030</guid>
+      <pubDate>Sat, 28 Feb 2026 12:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to moderate rain with snow (at higher altitude) very likely to continue over some parts of Gangtok, Gyalshing, Mangan, Namchi and Pakyong districts during next 2-3 hours from 17:30 hrs IST of today, 28-02-2026.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772280207357037</link>
+      <author>controlroom@ndma.gov.in (IMD Gangtok)</author>
+      <guid isPermaLink="false">1772280207357037</guid>
+      <pubDate>Sat, 28 Feb 2026 12:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderstorm with heavy rain (&gt;15mm/hour) is very likely to occur at isolated places over Pathanamthitta in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772279811016006</link>
+      <author>controlroom@ndma.gov.in (IMD Thiruvananthapuram)</author>
+      <guid isPermaLink="false">1772279811016006</guid>
+      <pubDate>Sat, 28 Feb 2026 11:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to Moderate Rain with Thunderstorm and Lightning  is likely to occur at isolated places over Coimbatore, Dindigul, Kanniyakumari, Tenkasi, Theni, Tirunelveli in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772275280098007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772275280098007</guid>
+      <pubDate>Sat, 28 Feb 2026 10:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to moderate rain with snow (at higher altitude) very likely to affect over some parts of Gangtok, Gyalshing, Mangan, Namchi and Pakyong districts during next 2-3 hours from 14:30 hrs IST of today, 28-02-2026.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772270314012037</link>
+      <author>controlroom@ndma.gov.in (IMD Gangtok)</author>
+      <guid isPermaLink="false">1772270314012037</guid>
+      <pubDate>Sat, 28 Feb 2026 09:18:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>రానున్న కొద్ది గంటల్లో మీ ప్రాంతంలో దట్టమైన పొగమంచు కురిసే అవకాశం ఉంది. వాహనదారులు ఫాగ్ లైట్లు వాడండి.తక్కువ వేగంతో ప్రయాణించండి. వృద్ధులు ఇంటి వద్ద సురక్షితంగా ఉండండి- ఆంధ్రప్రదేశ్ ప్రభుత్వం</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772238321741008</link>
+      <author>controlroom@ndma.gov.in (IMD Visakhapatnam)</author>
+      <guid isPermaLink="false">1772238321741008</guid>
+      <pubDate>Sat, 28 Feb 2026 00:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light/Moderate Rain with thunderstorm and lightning is likely to occur at isolated places over Coimbatore, Madurai, Tenkasi, Tirunelveli and Virudhunagar in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772209882976007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772209882976007</guid>
+      <pubDate>Fri, 27 Feb 2026 16:31:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to Moderate Rain with thunderstorm and lightning is very likely to occur at a few places over Coimbatore, Tenkasi, Thoothukkudi, Tirunelveli in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772198857897007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772198857897007</guid>
+      <pubDate>Fri, 27 Feb 2026 13:27:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096742146035</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096742146035</guid>
+      <pubDate>Fri, 27 Feb 2026 11:42:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to Moderate Rain with thunderstorm and lightning is very likely to occur at a few places over Kanniyakumari, Tirunelveli in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772188303204007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772188303204007</guid>
+      <pubDate>Fri, 27 Feb 2026 10:31:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>రానున్న కొద్ది గంటల్లో మీ ప్రాంతంలో దట్టమైన పొగమంచు కురిసే అవకాశం ఉంది. వాహనదారులు ఫాగ్ లైట్లు వాడండి.తక్కువ వేగంతో ప్రయాణించండి. వృద్ధులు ఇంటి వద్ద సురక్షితంగా ఉండండి- ఆంధ్రప్రదేశ్ ప్రభుత్వం</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772152031366008</link>
+      <author>controlroom@ndma.gov.in (IMD Visakhapatnam)</author>
+      <guid isPermaLink="false">1772152031366008</guid>
+      <pubDate>Fri, 27 Feb 2026 00:39:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to Moderate Rain with thunderstorm and lightning is likely to occur at isolated places over Coimbatore, Dindigul, Kanniyakumari, Madurai, Tenkasi, Theni, The Nilgiris, Thoothukkudi, Tirunelveli, Virudhunagar in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772113488393007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772113488393007</guid>
+      <pubDate>Thu, 26 Feb 2026 16:36:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to Moderate Rain is likely to occur at isolated places over Dindigul, Tenkasi, Theni, Tirunelveli, Virudhunagar in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772122819766007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772122819766007</guid>
+      <pubDate>Thu, 26 Feb 2026 16:28:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to Moderate Rain is very likely to occur at most places over Dindigul, Tenkasi, Theni, Virudhunagar in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772123192638007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772123192638007</guid>
+      <pubDate>Thu, 26 Feb 2026 16:26:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096743346014</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096743346014</guid>
+      <pubDate>Thu, 26 Feb 2026 15:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to Moderate Rain with Light Thunderstorm and Lightning is likely to occur at isolated places over Coimbatore, Kanyakumari, Tenkasi, Theni, The Nilgiris and Ghat areas of Tirunelveli in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772101868918007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772101868918007</guid>
+      <pubDate>Thu, 26 Feb 2026 10:31:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>अगले 7 दिनों में आपके आस-पास के जंगल में आग लगने का बहुत ज़्यादा खतरा हो सकता है।</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096741164013</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096741164013</guid>
+      <pubDate>Thu, 26 Feb 2026 10:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days. Warning issued in the public interest by Manipur State Disaster Management Authority.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096743126034</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096743126034</guid>
+      <pubDate>Thu, 26 Feb 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>अगले 7 दिनों में आपके आस-पास के जंगल में बहुत ज़्यादा जंगल में आग लगने का खतरा हो सकता है।</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096818966013</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096818966013</guid>
+      <pubDate>Thu, 26 Feb 2026 09:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>अगले 7 दिनों में आपके निकट वन क्षेत्र में बहुत अधिक जंगल की आग का खतरा होने की संभावना है।</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096740357021</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096740357021</guid>
+      <pubDate>Thu, 26 Feb 2026 09:45:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>अगले 7 दिनों में आपके निकट के वन क्षेत्र में अत्यधिक जंगल की आग का खतरा उत्पन्न होने की संभावना है।</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096819808021</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096819808021</guid>
+      <pubDate>Thu, 26 Feb 2026 09:34:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>రాబోయే ఏడు రోజుల్లో మీ సమీప అడవి ప్రాంతంలో చాలా భాగం వరకు దహనం సంభవించే అవకాశం ఉంది. అప్రమత్తంగా ఉండండి.-ఆంధ్రప్రదేశ్ ప్రభుత్వం</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096742502008</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096742502008</guid>
+      <pubDate>Thu, 26 Feb 2026 09:30:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096742378009</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096742378009</guid>
+      <pubDate>Thu, 26 Feb 2026 09:29:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Extreme Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096818868009</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096818868009</guid>
+      <pubDate>Thu, 26 Feb 2026 09:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.(SOURCE : FSI)</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096741047019</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096741047019</guid>
+      <pubDate>Thu, 26 Feb 2026 09:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>రాబోయే ఏడు రోజుల్లో మీ సమీప అడవి ప్రాంతంలో చాలా భాగం వరకు దహనం సంభవించే అవకాశం ఉంది-ఆంధ్రప్రదేశ్ ప్రభుత్వం</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096819995008</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096819995008</guid>
+      <pubDate>Thu, 26 Feb 2026 09:22:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>FSI has issued an alert on likelihood of occurrence of natural forest fire in the forest area located in your district till 05th March, 2026. Keep vigilant and seek help of District Fire Emergency Services in case of any such fire incident. Issued in public interest by ASDMA.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096819659010</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096819659010</guid>
+      <pubDate>Thu, 26 Feb 2026 09:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>अगले 7 दिनों में आपके आस-पास के जंगल में बहुत ज़्यादा जंगल में आग लगने का खतरा हो सकता है। DMRD</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096819131028</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096819131028</guid>
+      <pubDate>Thu, 26 Feb 2026 09:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>अगले 7 दिनों में आपके आसपास के वन क्षेत्र में जंगल में आग लगने का बहुत अधिक खतरा है।सतर्क रहे।इन दिनों वन में जाने से बचे।आपदा प्रबंधन प्रभाग रांची झारखंड।</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096742887027</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096742887027</guid>
+      <pubDate>Thu, 26 Feb 2026 09:17:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FSI has issued an alert on likelihood of occurrence of natural forest fire in the forest area located in your district till 05th March, 2026. Keep vigilant and seek help of District Fire Emergency Services in case of any such fire incident. Issued in public interest by ASDMA.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096740695010</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096740695010</guid>
+      <pubDate>Thu, 26 Feb 2026 09:15:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096741926026</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096741926026</guid>
+      <pubDate>Thu, 26 Feb 2026 09:14:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>अगले 7 दिनों में आपके आस-पास के जंगल में आग लगने का बहुत ज़्यादा खतरा हो सकता है। DMRD</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096741722028</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096741722028</guid>
+      <pubDate>Thu, 26 Feb 2026 09:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096743067017</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096743067017</guid>
+      <pubDate>Thu, 26 Feb 2026 09:14:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096743403016</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096743403016</guid>
+      <pubDate>Thu, 26 Feb 2026 09:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Extreme Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096819737015</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096819737015</guid>
+      <pubDate>Thu, 26 Feb 2026 09:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Extreme Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096819936012</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096819936012</guid>
+      <pubDate>Thu, 26 Feb 2026 09:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Extreme Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096819226032</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096819226032</guid>
+      <pubDate>Thu, 26 Feb 2026 09:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Extreme Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096819876020</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096819876020</guid>
+      <pubDate>Thu, 26 Feb 2026 09:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096741571029</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096741571029</guid>
+      <pubDate>Thu, 26 Feb 2026 09:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096742285020</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096742285020</guid>
+      <pubDate>Thu, 26 Feb 2026 09:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096739288012</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096739288012</guid>
+      <pubDate>Thu, 26 Feb 2026 09:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096739576032</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096739576032</guid>
+      <pubDate>Thu, 26 Feb 2026 09:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096742085025</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096742085025</guid>
+      <pubDate>Thu, 26 Feb 2026 09:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096742995022</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096742995022</guid>
+      <pubDate>Thu, 26 Feb 2026 09:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096741994015</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096741994015</guid>
+      <pubDate>Thu, 26 Feb 2026 09:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very High Forest Fire Risk is likely to occur over forest area near you, in next 7 days.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772096740857018</link>
+      <author>controlroom@ndma.gov.in (FSI)</author>
+      <guid isPermaLink="false">1772096740857018</guid>
+      <pubDate>Thu, 26 Feb 2026 09:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Test</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772094256395010</link>
+      <author>controlroom@ndma.gov.in (Assam SDMA)</author>
+      <guid isPermaLink="false">1772094256395010</guid>
+      <pubDate>Thu, 26 Feb 2026 08:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderstorm accompanied with Lightning Very likely to occur at isolated places in Bhadradri Kothagudem, Khammam, Nalgonda, Suryapet, Medak, Kamareddy, Nagarkurnool districts  in next 24 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772091009616030</link>
+      <author>controlroom@ndma.gov.in (IMD Hyderabad)</author>
+      <guid isPermaLink="false">1772091009616030</guid>
+      <pubDate>Thu, 26 Feb 2026 07:30:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>मॉक अभ्यास: सुपौल जिले में 6.4 तीव्रता का भूकंप आया है। कृपया इमारतों से दूर रहें और बाहर चले जाएं। यह मॉक अभ्यास है। इसे गंभीरता से न लें। (आपदा प्रबंधन विभाग द्वारा जारी)</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772077554079016</link>
+      <author>controlroom@ndma.gov.in (Bihar SDMA)</author>
+      <guid isPermaLink="false">1772077554079016</guid>
+      <pubDate>Thu, 26 Feb 2026 03:48:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>రానున్న కొద్ది గంటల్లో మీ ప్రాంతంలో దట్టమైన పొగమంచు కురిసే అవకాశం ఉంది. వాహనదారులు ఫాగ్ లైట్లు వాడండి.తక్కువ వేగంతో ప్రయాణించండి. వృద్ధులు ఇంటి వద్ద సురక్షితంగా ఉండండి- ఆంధ్రప్రదేశ్ ప్రభుత్వం</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772066275521008</link>
+      <author>controlroom@ndma.gov.in (IMD Visakhapatnam)</author>
+      <guid isPermaLink="false">1772066275521008</guid>
+      <pubDate>Thu, 26 Feb 2026 00:44:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderstorm with Lightning accompanied by Light to Moderate rain is very likely to occur at a few places over Unakoti and North Tripura districts  in next 1-2 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772059278701015</link>
+      <author>controlroom@ndma.gov.in (IMD Agartala)</author>
+      <guid isPermaLink="false">1772059278701015</guid>
+      <pubDate>Wed, 25 Feb 2026 22:42:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderstorm and Lightning with Light to Moderate Rain is very likely to occur at One or two places over Dhalai in next 1-2 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772057354412015</link>
+      <author>controlroom@ndma.gov.in (IMD Agartala)</author>
+      <guid isPermaLink="false">1772057354412015</guid>
+      <pubDate>Wed, 25 Feb 2026 22:10:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderstorm with Lightning accompanied by light rain is very likely to occur at a few places over Khowai and West Tripura in next 30mints to 1 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772054468494015</link>
+      <author>controlroom@ndma.gov.in (IMD Agartala)</author>
+      <guid isPermaLink="false">1772054468494015</guid>
+      <pubDate>Wed, 25 Feb 2026 21:22:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderstorm with Light/Moderate Rain is likely to occur at isolated places over Coimbatore, Dindigul, Erode, Karur, Madurai, The Nilgiris, Tiruchirappalli and Tiruppur districts in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772048496302007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772048496302007</guid>
+      <pubDate>Wed, 25 Feb 2026 19:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light Rain is very likely to occur at most places over Kanniyakumari, Tenkasi, Thoothukkudi and Tirunelveli districts of Tamilnadu in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772038645013007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772038645013007</guid>
+      <pubDate>Wed, 25 Feb 2026 16:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderstorm with Light to Moderate Rain is likely to occur at isolated places over Coimbatore, Dindigul, Erode, Karur, Namakkal, Theni, The Nilgiris and  Tiruppur districts of Tamilnadu in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772038385299007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772038385299007</guid>
+      <pubDate>Wed, 25 Feb 2026 16:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>അടുത്ത 3 മണിക്കൂറിൽ TVM, KLM, PTA ജില്ലകളിൽ  ഇടിമിന്നലോട് കൂടിയ ശക്തമായ മഴയ്ക്കും  40 kmph വരെ വേഗതയിൽ ശക്തമായ കാറ്റിനും സാധ്യത. 07.45 pm, 25.02.2026; IMD_KSDMA</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772027289045006</link>
+      <author>controlroom@ndma.gov.in (IMD Thiruvananthapuram)</author>
+      <guid isPermaLink="false">1772027289045006</guid>
+      <pubDate>Wed, 25 Feb 2026 14:19:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Light to Moderate Rain with Thunderstorm and lightning  is very likely to occur at isolated places over Coimbatore, Dindigul, Kanniyakumari, Madurai, Tenkasi, Theni, The Nilgiris, Thoothukkudi, Tirunelveli, Tiruppur, Virudhunagar in next 3 hours.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772025389263007</link>
+      <author>controlroom@ndma.gov.in (IMD Chennai)</author>
+      <guid isPermaLink="false">1772025389263007</guid>
+      <pubDate>Wed, 25 Feb 2026 13:16:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>మీ ప్రాంతంలో పిడుగులు పడే అవకాశం ఉంది.ఉరుములు మెరుపులతో కూడిన వర్షం పడేప్పుడు చెట్లు,టవర్స్,పోల్స్,పొలాలు,బహిరంగ ప్రదేశాల్లో ఉండరాదు.సురక్షితమైన భవనాల్లో ఆశ్రయం పొందండి-ఆంధ్రప్రదేశ్ ప్రభుత్వం.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772020979448008</link>
+      <author>controlroom@ndma.gov.in (IMD Visakhapatnam)</author>
+      <guid isPermaLink="false">1772020979448008</guid>
+      <pubDate>Wed, 25 Feb 2026 12:12:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>మీ ప్రాంతంలో పిడుగులు పడే అవకాశం ఉంది.ఉరుములు మెరుపులతో కూడిన వర్షం పడేప్పుడు చెట్లు,టవర్స్,పోల్స్,పొలాలు,బహిరంగ ప్రదేశాల్లో ఉండరాదు.సురక్షితమైన భవనాల్లో ఆశ్రయం పొందండి-ఆంధ్రప్రదేశ్ ప్రభుత్వం.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772020945042008</link>
+      <author>controlroom@ndma.gov.in (Andhra Pradesh SDMA)</author>
+      <guid isPermaLink="false">1772020945042008</guid>
+      <pubDate>Wed, 25 Feb 2026 12:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>మీ ప్రాంతంలో పిడుగులు పడే అవకాశం ఉంది.ఉరుములు మెరుపులతో కూడిన వర్షం పడేప్పుడు చెట్లు,టవర్స్,పోల్స్,పొలాలు,బహిరంగ ప్రదేశాల్లో ఉండరాదు.సురక్షితమైన భవనాల్లో ఆశ్రయం పొందండి-ఆంధ్రప్రదేశ్ ప్రభుత్వం.</title>
+      <description/>
+      <category>Met</category>
+      <link>https://sachet.ndma.gov.in/cap_public_website/FetchXMLFile?identifier=1772019770211008</link>
+      <author>controlroom@ndma.gov.in (Andhra Pradesh SDMA)</author>
+      <guid isPermaLink="false">1772019770211008</guid>
+      <pubDate>Wed, 25 Feb 2026 11:43:41 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
